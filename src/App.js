@@ -6,7 +6,7 @@ import Social from './components/Social'
 
 export default function App() {
   return (
-    <main className='text-pink-500 bg-pink-200 body-font'>
+    <main className='text-[#b3446c] bg-pink-200 body-font'>
       <Navbar />
       <About />
       <Social />
