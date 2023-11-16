@@ -1,4 +1,5 @@
 import memoji from "../assets/memoji.png";
+import { TypeWriter } from "./Typewriter";
 
 
 export default function About() {
@@ -11,7 +12,7 @@ export default function About() {
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-pink-500 font-monospace">
                         Hello, I'm Leena.   
                         <br className="hidden lg:inline-block" /> 
-                        <h2 className="title-font sm:text-3xl mb-4 font-medium text-pink-500 font-monospace">Software Developer
+                        <h2 className="title-font sm:text-3xl mb-4 font-medium text-pink-500 font-monospace"> <TypeWriter/>
                         </h2>
                     </h1>
                     <p className="mb-8 leading-relaxed font-serif text-pink-500 text-lg">
