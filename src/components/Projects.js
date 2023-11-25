@@ -5,7 +5,7 @@ import { LightBulbIcon } from "@heroicons/react/outline";
 export default function Projects() {
     return (
         <section id="projects" className="text-pink-500 bg-pink-200 pt-20">
-            <div className="container px-5 py-10 mx-auto text-center lg:px-40 ">
+            <div className="container px-5 py-5 mx-auto text-center lg:px-40 ">
                 <div className="flex flex-col w-full mb-20">
                 <LightBulbIcon className="mx-auto inline-block w-10 mb-4" />
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-pink font-sansserif">

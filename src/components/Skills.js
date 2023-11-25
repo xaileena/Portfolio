@@ -4,7 +4,7 @@ import { BadgeCheckIcon, CodeIcon} from "@heroicons/react/outline";
 export default function Skills() {
     return (
       <section id="skills">
-        <div className="container px-5 py-10 mx-auto">
+        <div className="container px-5 py-5 mx-auto">
           <div className="text-center mb-20 my-16">
           <CodeIcon className="w-10 inline-block mb-4 text-pink-500" />
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-pink-500 mb-4 font-sansserif">

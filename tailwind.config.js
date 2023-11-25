@@ -10,6 +10,12 @@ module.exports = {
         sansserif: ["Changa"],
       }
     },
+    screens: {
+      'sm': '575px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
+    }
   },
   variants: {
     extend: {},
