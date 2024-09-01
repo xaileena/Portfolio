@@ -15,13 +15,11 @@ export default function About() {
                         </h2>
                     </h1>
                     <p className="mb-8 leading-relaxed font-serif text-pink-500 text-lg">
-                    I am a sophomore at McGill University pursuing a
-                    bachelor's in computer science. What pushed me to pursue my studies
-                    in this field is my deep admiration for the achievements of women in the tech
-                    industry. I have a passion for software development and I am actively
-                    seeking internship opportunities. Through my studies,
-                    personal projects, and experiences, I strive to continuously expand my knowledge,
-                    creativity and technical skills.
+                    I am a third year computer science student at McGill University. My interest in software development as well
+                    as my deep admiration for the achievements of women in the tech industry
+                    have been a driving force in my professional and academic journey.
+                    I've focused on building a strong theoretical foundation in computer science 
+                    while actively seeking opportunities to apply my skills in real-world scenarios.
                     </p>
                 </div>
                 <div className="lg:max-w-lg lg:w-full w-5/6 pb-20 md:flex md:flex-col md:items-center md:justify-center">
