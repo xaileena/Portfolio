@@ -18,8 +18,7 @@ export default function About() {
                     I am a third year computer science student at McGill University. My interest in software development as well
                     as my deep admiration for the achievements of women in the tech industry
                     have been a driving force in my professional and academic journey.
-                    I've focused on building a strong theoretical foundation in computer science 
-                    while actively seeking opportunities to apply my skills in real-world scenarios.
+                    My work experience has been primarily full-stack development with Spring, React, and Angular.
                     </p>
                 </div>
                 <div className="lg:max-w-lg lg:w-full w-5/6 pb-20 md:flex md:flex-col md:items-center md:justify-center">

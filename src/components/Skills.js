@@ -8,7 +8,7 @@ export default function Skills() {
           <div className="text-center mb-20 my-16">
           <CodeIcon className="w-10 inline-block mb-4 text-pink-500" />
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-pink-500 mb-4 font-sansserif">
-              Skills &amp; Technologies
+              Tech Stack
             </h1>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
@@ -24,9 +24,6 @@ export default function Skills() {
             ))}
           </div>
           <div className="text-center my-16">
-          <h2 className="sm:text-4xl text- font-small title-font text-pink-500 mb-4 font-sansserif">
-            And more!
-         </h2>
           </div>
         </div>
       </section>
